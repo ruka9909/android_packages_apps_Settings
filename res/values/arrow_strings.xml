@@ -236,4 +236,10 @@
     <string name="lockscreen_media_art_options_title">Lock screen media art</string>
     <string name="lockscreen_media_art_title">Media cover art</string>
     <string name="lockscreen_media_art_summary">Display media cover art when available</string>
+
+    <!-- Lockscreen clock format -->
+    <string name="clock_use_single_line_title">Lockscreen clock Format</string>
+    <string name="single_line">Single-line</string>
+    <string name="double_line">Double-line</string>
+    <string name="default_string">Default_string</string>
 </resources>
